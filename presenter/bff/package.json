@@ -1,0 +1,18 @@
+{
+  "name": "@authorization/bff",
+  "version": "0.0.1",
+  "description": "Authorization Backend for Forntend",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Authorization",
+    "Backend",
+    "for",
+    "Frontend"
+  ],
+  "author": "Sarawtuh Pimsai",
+  "license": "ISC"
+}

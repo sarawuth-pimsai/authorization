@@ -1,0 +1,16 @@
+{
+  "name": "@authorization/domain",
+  "version": "0.0.1",
+  "description": "Authorization Domain",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Authorization",
+    "Domain"
+  ],
+  "author": "Sarawuth Pimsai",
+  "license": "ISC"
+}

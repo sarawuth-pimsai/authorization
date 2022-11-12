@@ -1,0 +1,16 @@
+{
+  "name": "@authorization/graphql",
+  "version": "0.0.1",
+  "description": "Authorization GraphQL",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Authorization",
+    "GraphQL"
+  ],
+  "author": "Sarawuth Pimsai",
+  "license": "ISC"
+}

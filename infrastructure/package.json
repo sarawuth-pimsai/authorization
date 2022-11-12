@@ -1,0 +1,16 @@
+{
+  "name": "@authorization/infrastructure",
+  "version": "0.0.1",
+  "description": "Authorization Infrastructure",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Authorization",
+    "Infrastructure"
+  ],
+  "author": "Sarawuth Pimsai",
+  "license": "ISC"
+}
